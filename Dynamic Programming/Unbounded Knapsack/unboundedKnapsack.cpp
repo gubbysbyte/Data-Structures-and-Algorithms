@@ -7,7 +7,7 @@ public:
     vector<vector<int>> dp;
 
 
-// Top Down Approach
+// bottom up approach
     int solveRec(int W, vector<int>& wt, vector<int>& val, int n){
         if(n == 0 || W == 0) return 0;
 
@@ -21,7 +21,8 @@ public:
         }
     }
 
-// bottom up approach
+
+// Top Down Approach
     int solveRecBUA(int W, vector<int>& wt, vector<int>& val, int n){
 
         for(int i = 1; i < n + 1; i++){
