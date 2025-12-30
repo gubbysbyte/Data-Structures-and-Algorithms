@@ -13,4 +13,8 @@ The `Dynamic Programming` folder contains solutions to classic DP problems:
 *   **Minimum Subset Sum Difference** (`minSubsetDiff.cpp`): Minimizing the difference between two subset sums.
 *   **Count of Subsets with Difference** (`CountOfMinSubsetDiff.cpp`): Counting subsets with a specific difference.
 
+### Unbounded Knapsack
+
+*   **Coin Change** (`coinChange2.cpp`): Finding the minimum number of coins required to make a target sum.
+
 Each file includes a `Solution` class with recursive and memoized approaches.
