@@ -105,6 +105,11 @@ const fallbackDigest: NewsDigest = {
   ]
 };
 
+/**
+ * Create and show the main application BrowserWindow.
+ *
+ * Configures a window with fixed initial dimensions and minimum size, a dark background, and a macOS-friendly title bar. Enables webPreferences that use the bundled preload script, enforce context isolation, and disable Node integration. In development (when `isDev` and `VITE_DEV_SERVER_URL` are present) the window loads the dev server URL; otherwise it loads the packaged `dist/index.html`.
+ */
 function createWindow() {
   const window = new BrowserWindow({
     width: 1480,
@@ -127,6 +132,12 @@ function createWindow() {
   }
 }
 
+/**
+ * Normalize a raw news API article into a consistent NewsCard with deterministic metadata.
+ *
+ * @param article - The raw article object from the news API; may contain fields such as `title`, `source`, `description`, `content`, `url`, `publishedAt`, `image`, or `urlToImage`.
+ * @param index - The article's index in the returned list; used to form a stable `id` and to deterministically select `category`, `mood`, and `accent`.
+ * @returns A NewsCard with `id`, `title`, `source`, `summary`, `url`, `publishedAt`, `category`, `mood`, `image`, and `accent`; any missing source/title/summary/url/publishedAt/image values are replaced with sensible defaults.
 function normalizeArticle(article: any, index: number): NewsCard {
   const accents = ["from-cyan", "from-amber", "from-emerald", "from-rose", "from-violet"];
   const categories = ["AI", "Startups", "Climate Tech", "Robotics", "Future of Work"];
@@ -152,6 +163,13 @@ function normalizeArticle(article: any, index: number): NewsCard {
   };
 }
 
+/**
+ * Fetches a news digest of technology-focused stories from the GNews API.
+ *
+ * If no API key is configured, the API returns no articles, or a network/error occurs, the function falls back to the bundled `fallbackDigest`.
+ *
+ * @returns A `NewsDigest` containing a `generatedAt` timestamp, a `highlight` article, an array of `trending` articles, and `signals`; returns `fallbackDigest` when no API key is available, when the fetched results are empty, or when an error occurs during retrieval.
+ */
 async function fetchNewsDigest(): Promise<NewsDigest> {
   const apiKey = process.env.GNEWS_API_KEY ?? process.env.NEWS_API_KEY;
   if (!apiKey) {
