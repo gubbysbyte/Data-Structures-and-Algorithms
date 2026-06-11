@@ -7,6 +7,8 @@ using namespace std;
 
 class Solution {
 public:
+    // Time Complexity: O(n log n + q log q), where n = intervals.size() and q = queries.size() (due to sorting both)
+    // Space Complexity: O(n + q) to store the queries array with indices and for the priority queue
     vector<int> minInterval(vector<vector<int>>& intervals, vector<int>& queries) {
         sort(intervals.begin(), intervals.end());
 

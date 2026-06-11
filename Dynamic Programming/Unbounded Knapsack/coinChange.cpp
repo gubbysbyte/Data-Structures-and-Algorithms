@@ -6,6 +6,8 @@ class Solution{
     vector<vector<int>> dp;
 
 public:
+    // Top-Down Approach (Memoization)
+    // Time Complexity: O(n * N), Space Complexity: O(n * N)
     int solveBUA(vector<int>& length, vector<int> &price, int N, int n){
         if(n == 0 || N == 0){
             return 0;
@@ -20,6 +22,8 @@ public:
         }
     }
 
+    // Bottom-Up Approach (Tabulation)
+    // Time Complexity: O(n * sum), Space Complexity: O(n * sum)
     int solveTDA(vector<int>& coin, int sum, int n){
         for(int i = 0; i < n + 1; i++){
             dp[i][0] = 1;

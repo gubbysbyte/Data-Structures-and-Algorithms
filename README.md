@@ -1,6 +1,14 @@
 # Data Structures and Algorithms
 
-This directory contains C++ implementations of various algorithms and data structures.
+This repository contains C++ implementations of various algorithms and data structures. The primary purpose of this repository is to keep track of my DSA code while solving the **NeetCode 150** questions list.
+
+## Intervals
+
+The `Intervals` folder contains solutions to interval-based problems from the NeetCode 150 list:
+
+*   **Merge Intervals** (`merge_intervals.cpp`): Merging all overlapping intervals.
+*   **Non-overlapping Intervals** (`non_overlapping_intervals.cpp`): Finding the minimum number of intervals to remove to make the rest non-overlapping.
+*   **Minimum Interval to Include Each Query** (`min_interval_to_include_each_query.cpp`): Finding the smallest interval that contains each query.
 
 ## Dynamic Programming
 
