@@ -6,6 +6,8 @@ using namespace std;
 
 class Solution {
 public:
+    // Time Complexity: O(n log n) because we are sorting the array of intervals
+    // Space Complexity: O(n) for the output array (or O(log n) auxiliary space for sorting)
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         if (intervals.empty()) return {};
 
