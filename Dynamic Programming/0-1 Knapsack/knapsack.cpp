@@ -7,6 +7,8 @@ using namespace std;
 class Solution
 {
 public:
+    // Time Complexity: O(n * W), where n is the number of items and W is the capacity
+    // Space Complexity: O(n * W) for the 2D DP table + O(n) for the recursive call stack
     // Returns the maximum value that can be put in a knapsack of capacity W
     int knapSack(int W, vector<int> &wt, vector<int> &val, int n)
     {

@@ -6,7 +6,8 @@ using namespace std;
 
 class Solution {
 public:
-    // time complexities - O(nlog(n))
+    // Time Complexity: O(n log n) due to sorting the intervals
+    // Space Complexity: O(1) auxiliary (ignoring the space required for the sorting algorithm stack)
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         if (intervals.empty()) return 0;
 
