@@ -1,6 +1,12 @@
 import { useEffect, useState } from "react";
 import type { NewsDigest } from "./types";
 
+/**
+ * Format an ISO 8601 timestamp into a localized English date and time string.
+ *
+ * @param iso - An ISO 8601 timestamp string (for example: "2024-03-25T12:34:56Z")
+ * @returns A string representing the input date formatted for the "en" locale using medium date and short time styles
+ */
 function formatTime(iso: string) {
   return new Intl.DateTimeFormat("en", {
     dateStyle: "medium",
@@ -8,6 +14,15 @@ function formatTime(iso: string) {
   }).format(new Date(iso));
 }
 
+/**
+ * Root React component for the Tech Innovation Daily application.
+ *
+ * Fetches the news digest on mount (safely avoiding updates after unmount) and renders
+ * one of: a loading screen while fetching, an error/fallback screen if no digest is available,
+ * or the full dashboard (hero + signal chips + featured story + trending bento grid) when data is present.
+ *
+ * @returns The component's JSX element representing the app UI.
+ */
 function App() {
   const [digest, setDigest] = useState<NewsDigest | null>(null);
   const [loading, setLoading] = useState(true);
