@@ -10,6 +10,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -23,6 +24,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
@@ -33,6 +35,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -41,6 +44,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -49,6 +53,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -67,4 +72,12 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
