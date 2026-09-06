@@ -92,6 +92,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
@@ -102,6 +103,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
