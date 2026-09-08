@@ -36,6 +36,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3870-count-commas-in-range](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
