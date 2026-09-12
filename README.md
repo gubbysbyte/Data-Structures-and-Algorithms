@@ -16,6 +16,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -85,6 +86,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | [0115-distinct-subsequences](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
