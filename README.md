@@ -10,6 +10,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0835-image-overlap](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
@@ -158,6 +159,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
