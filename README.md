@@ -36,6 +36,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -173,4 +174,8 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
