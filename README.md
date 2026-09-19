@@ -38,6 +38,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
@@ -195,4 +196,5 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
