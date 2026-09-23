@@ -10,6 +10,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0303-range-sum-query-immutable](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0835-image-overlap](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -124,6 +125,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
@@ -211,4 +213,8 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
