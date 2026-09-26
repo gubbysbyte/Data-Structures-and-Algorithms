@@ -15,6 +15,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | [1386-cinema-seat-allocation](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -96,6 +97,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -142,6 +144,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | [0115-distinct-subsequences](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
