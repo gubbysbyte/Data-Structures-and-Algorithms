@@ -123,6 +123,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -144,6 +145,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -241,6 +243,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -254,6 +257,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
