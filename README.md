@@ -9,6 +9,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0835-image-overlap](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
@@ -40,6 +41,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
