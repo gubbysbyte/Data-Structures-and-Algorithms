@@ -43,6 +43,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | ------- |
 | [0136-single-number](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -140,6 +141,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | [0032-longest-valid-parentheses](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
