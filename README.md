@@ -42,6 +42,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -294,4 +295,8 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
