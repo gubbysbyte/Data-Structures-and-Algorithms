@@ -46,6 +46,7 @@ Each file includes a `Solution` class with recursive and memoized approaches.
 | [0136-single-number](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gubbysbyte/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
